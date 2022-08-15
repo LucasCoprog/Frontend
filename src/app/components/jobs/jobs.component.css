@@ -1,0 +1,21 @@
+
+.titulo{
+    margin-top: 45px;
+    display: inline;
+    text-align: center;
+    font-weight: bold;
+}
+
+.row{
+    background: linear-gradient(180deg, rgba(22,179,210,1) 0%, rgba(2,151,180,1) 90%, rgba(2,151,180,1) 100%);
+}
+
+
+
+h1,h3{
+    display: inline;
+    text-align: center;
+    font-weight: bold;
+    
+
+}

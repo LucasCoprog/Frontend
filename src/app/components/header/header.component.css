@@ -1,0 +1,44 @@
+.container{
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(0,178,214,1) 60%, rgba(0,0,0,0.7987570028011204) 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+app-rrss{
+    display: flex;
+    float: right;
+    margin-top: 15px;
+    margin-right: 0.5em;
+    
+}
+
+app-logo{
+    display: flex;
+    float: left;
+    margin-top: 15px;
+}
+
+app-menu{
+    display: flex;
+    
+    margin-top: 15px;
+}
+
+
+
+/*Vista celu*/
+@media (max-width: 575px){
+    .container{
+        flex-direction: column;
+    }
+    
+    app-rrss{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+

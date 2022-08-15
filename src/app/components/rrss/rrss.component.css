@@ -1,0 +1,38 @@
+img{
+    width: 50px;
+    color: black;
+    margin: 00.15em;
+        
+}
+
+.btn{
+    border-width: medium;
+    margin: 00.15em;
+}
+
+#linkedin:hover{
+    background-color: black;
+    border-radius: 100%;
+}
+
+#GitHub:hover{
+    background-color: black;
+    border-radius: 100%;
+}
+
+#twitter:hover{
+    background-color: black;
+    border-radius: 100%;
+}
+
+#instagram:hover{
+    background-color: black;
+    border-radius: 100%;
+}
+
+#facebook:hover{
+    background-color: black;
+    border-radius: 100%;
+}
+
+
