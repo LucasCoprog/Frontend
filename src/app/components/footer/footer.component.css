@@ -9,3 +9,21 @@
     flex-direction: column;
     text-align: center;
 }
+h6{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.mail{
+    display: inline;
+    align-items: center;
+
+}
+
+img{
+    width: 30px;
+    border-radius: 100%;
+    color: #b4b4b4;
+            
+}
