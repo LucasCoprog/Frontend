@@ -1,5 +1,7 @@
 .row{
-    background-color: #b4b4b4;
+    background-color: #ffffff;
+    background-image: linear-gradient(180deg, #ffffff 0%, #e0f5f5 57%, #b5fffc 66%, #b5fffc 100%);
+    
     }
 .footer{
     color:rgb(0, 0, 0);

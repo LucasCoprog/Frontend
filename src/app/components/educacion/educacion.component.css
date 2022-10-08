@@ -1,10 +1,8 @@
-.row{
-    padding: 20px;
-    
-}
-
 div{
-    background: linear-gradient(180deg, rgba(2,151,180,1) 0%, rgba(20,161,187,1) 90%, rgba(20,159,185,1) 100%);
+    background-color: #0297b4;
+    background-image: linear-gradient(180deg, #0297b4 0%, #149fb9 69%, #989898 93%, #989898 100%);
+
+   
 }
 
 .titulo{
